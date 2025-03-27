@@ -1,6 +1,6 @@
 # logos
 
-Some drawings and logos for myself, others and similar.
+Some drawings and logos for myself, others, and similar.
 
 
 # License
